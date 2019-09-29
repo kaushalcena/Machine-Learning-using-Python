@@ -1,2 +1,2 @@
 # Machine-Learning-using-Python
-Python coding and Machine learning projects/case-studies
+Python concepts and exercises alongwith Machine learning projects/case-studies using various machine learning algorithms.
